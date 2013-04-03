@@ -1,0 +1,293 @@
+
+body
+{
+   font-family: arial;
+   margin: 10px 40px 10px 40px;
+   text-align: center;
+}
+
+body.roto
+{
+   background-color: #66cc66;
+}
+
+body.points
+{
+   background-color: #6699cc;
+}
+
+.extra_wide_top
+{
+   background-color: #ffffff;
+   border: solid 6px #000000;
+   margin: 0px auto 10px auto;
+   padding-bottom: 5px;
+   text-align: center;
+   width: 750px;
+   -moz-border-radius: 6px;
+   border-radius: 6px;
+}
+
+.align_left
+{
+   margin: 0px 0px 0px auto;
+   text-align: left;
+
+}
+
+.align_right
+{
+   margin: 0px auto 0px 0px;
+   text-align: right;
+}
+
+.error_text
+{
+   color: #cc0000;
+}
+
+.gmlinks
+{
+   background-color: #ffffff;
+   border: solid 6px #000000;
+   margin: 0px auto 10px auto;
+   padding-bottom: 5px;
+   width: 750px;
+   -moz-border-radius: 6px;     
+   border-radius: 6px;
+}
+
+.extra_wide_bottom
+{
+   background-color: #ffffff;
+   border: solid 6px #000000;
+   margin: 0px auto 10px auto;
+   padding-top: 5px;
+   text-align: center;
+   width: 750px;
+   -moz-border-radius: 6px;
+   border-radius: 6px;
+}
+
+h1
+{
+   font-size: 2.4em;
+   font-weight: bold;
+   margin-bottom: 5px;
+}
+
+h1 a, h1 a:hover, h1 a:visited
+{
+   color: #006600;
+   text-decoration: none;
+}
+
+h1.points a, h1.points a:hover, h1.points a:visited
+{
+   color: #000066;
+   text-decoration: none;
+}
+
+#main
+{
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+   width: 750px;
+}
+
+#content
+{
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+   width: 415px;
+}
+
+.content_wide
+{
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+   width: 640px;
+}
+
+.item_head, .item_head_wide, .item_head_extra_wide
+{
+   background-color: #ffffff;
+   border-top: solid 6px #000000;
+   border-left: solid 6px #000000;
+   border-right: solid 6px #000000;
+   font-weight: bold;
+   padding: 5px 5px 5px 5px;
+   text-align: center;
+   -moz-border-radius-topleft: 6px;
+   -moz-border-radius-topright: 6px;         
+   border-top-left-radius: 6px;
+   border-top-right-radius: 6px;
+}
+
+.item, .item_wide, .item_extra_wide
+{
+   background-color: #ffffff;
+   border: solid 6px #000000;
+   margin-bottom: 10px;
+   padding: 5px 5px 5px 5px;
+   text-align: left;
+   -moz-border-radius-bottomleft: 6px;
+   -moz-border-radius-bottomright: 6px;                      
+   border-top-left-radius: 6px;
+   border-top-right-radius: 6px;
+}
+
+.item, .item_head
+{
+   width: 180px;
+}
+
+.item_wide, .item_head_wide
+{
+   width: 393px;
+}
+
+.item_extra_wide, .item_head_extra_wide
+{
+   padding: 5px 15px 5px 10px;
+   width: 598px;
+}
+
+label.wide
+{
+   margin: 0px 5px 10px 5px;
+   width: 100px;
+   float: left;
+   text-align: right;
+}
+
+span.narrow
+{
+   margin: 0px 5px 5px 5px;
+   width: 30px;
+   float: left;
+   text-align: right;
+}
+
+br.clear
+{
+   clear: left;
+}
+
+p
+{
+   margin: 10px 0px 10px 0px;
+}
+
+#hitter_stats, #hitter_points, #hitter_pos
+{
+   float: left;
+}
+
+#pitcher_stats, #pitcher_points, #pitcher_pos
+{
+   float: right;
+}
+
+.std_dev, .avgs, .rep_lev
+{
+   padding: 0px 5px 0px 5px;
+   float: left;
+}
+
+#submit
+{
+   background-color: #999999;
+   border: solid 6px #000000;
+   cursor: pointer;
+   font-family: arial;
+   font-size: 14pt;
+   font-weight: bold;
+   margin-bottom: 10px;
+   padding: 10px 10px 10px 10px;
+   text-align: center;
+   -moz-border-radius: 6px;                     
+   border-radius: 6px;
+}
+
+#submit:hover
+{
+   background-color: #ffffff;
+}
+
+.tab
+{
+   text-align: center;
+   font-weight: bold;
+   background-color: #ffffff;
+   border: solid 6px #000000;
+   padding: 5px 24px 0px 24px;
+   margin-left: 12px;
+   -moz-border-radius-topleft: 6px;
+   -moz-border-radius-topright: 6px;
+   border-top-left-radius: 6px;
+   border-top-right-radius: 6px;
+}
+
+#tabs
+{
+   z-index: 2;
+   position: relative;
+}
+
+#stats
+{
+   margin: 0px 64px 10px 64px;
+   padding-top: 10px;
+   text-align: left;
+}
+
+.container
+{
+   overflow: auto;
+   width: 100%;
+}
+
+th, td
+{
+   border-right: solid 1px #000000;
+   margin: 0px 0px 0px 0px;
+   padding: 3px 3px 3px 3px;
+   white-space: nowrap;
+   text-align: center;
+}
+
+th
+{
+   border-bottom: solid 6px #000000;
+   font-weight: bold;
+}
+
+tr.alt
+{
+   background-color: #cccccc;
+}
+
+tr.cus
+{
+   background-color: #ccffcc;
+}
+
+td.number
+{
+   text-align: right;
+}
+
+table
+{
+   border: solid 6px #000000;
+   background-color: #ffffff;
+   margin-left: auto;
+   margin-right: auto;
+   padding: 0px 0px 0px 0px;
+   -moz-border-radius: 6px;                           
+   border-radius: 6px;
+}

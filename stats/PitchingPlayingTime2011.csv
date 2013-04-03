@@ -1,0 +1,402 @@
+mlbamID,newIP,adjIP,S,IP,bisID,playerID,FG,defaultPos
+136880,205,218,,240,1303,Roy Halladay,Y,SP
+433587,205,212,,233,4772,Felix Hernandez,Y,SP
+434378,204,207,,227,8700,Justin Verlander,Y,SP
+434622,204,198,,218,3374,Ubaldo Jimenez,Y,SP
+453311,204,200,,220,5705,Tim Lincecum,Y,SP
+450308,203,199,,219,4235,Jered Weaver,Y,SP
+452657,202,194,,213,4930,Jon Lester,Y,SP
+424324,203,209,,230,1636,Cliff Lee,Y,SP
+282332,203,206,,226,404,CC Sabathia,Y,SP
+430912,202,203,,223,4732,Matt Cain,Y,SP
+477132,199,190,,209,2036,Clayton Kershaw,Y,SP
+433579,199,193,,212,6329,John Danks,Y,SP
+276520,193,190,,206,978,Bronson Arroyo,Y,SP
+430935,200,187,,206,4972,Cole Hamels,Y,SP
+134321,199,176,,193,790,Carl Pavano,Y,SP
+429717,199,199,,219,1757,Dan Haren,Y,SP
+433584,195,178,,190,3273,Fausto Carmona,Y,SP
+279824,198,192,,211,225,Mark Buehrle,Y,SP
+407793,195,181,,199,1507,John Lackey,Y,SP
+117955,198,171,,188,199,Derek Lowe,Y,SP
+451532,196,187,,205,5842,Chad Billingsley,Y,SP
+400061,193,192,,211,571,Roy Oswalt,Y,SP
+425386,198,189,,208,2072,Jeremy Guthrie,Y,SP
+407890,196,180,,198,1259,Colby Lewis,Y,SP
+448306,197,193,,212,7059,James Shields,Y,SP
+218596,194,181,,199,921,Tim Hudson,Y,SP
+451596,191,184,,202,8173,Yovani Gallardo,Y,SP
+450351,192,173,,190,3580,C.J. Wilson,Y,SP
+133225,194,190,,209,517,Ryan Dempster,Y,SP
+462102,193,184,,202,9129,Tommy Hanson,Y,SP
+456034,194,196,,212,3184,David Price,Y,SP
+461829,193,173,,190,7448,Gio Gonzalez,Y,SP
+460069,191,192,,211,3403,Ricky Romero,Y,SP
+460059,190,186,,204,5203,Mike Pelfrey,Y,SP
+502239,191,177,,195,6249,Trevor Cahill,Y,SP
+285079,189,177,,192,1245,R.A. Dickey,Y,SP
+453286,187,190,,209,3137,Max Scherzer,Y,SP
+430904,184,173,,190,8678,Paul Maholm,Y,SP
+429719,187,196,,215,1841,Edwin Jackson,Y,SP
+490063,188,187,,205,3340,Matt Garza,Y,SP
+445060,184,177,,195,3830,Ricky Nolasco,Y,SP
+150116,183,181,,199,976,Randy Wolf,Y,SP
+453385,185,179,,197,3551,Clayton Richard,Y,SP
+460024,188,153,,168,6943,Luke Hochevar,Y,SP
+429722,185,174,,191,3200,Ervin Santana,Y,SP
+435178,174,187,,206,4567,Josh Johnson,Y,SP
+425856,184,187,,205,3886,Gavin Floyd,Y,SP
+434643,187,179,,197,2586,Wandy Rodriguez,Y,SP
+451788,178,177,,194,6204,Shaun Marcum,Y,SP
+451085,185,174,,191,2646,Brian Matusz,Y,SP
+475416,182,165,,181,2038,Justin Masterson,Y,SP
+453178,183,175,,192,6986,Ian Kennedy,Y,SP
+407822,181,163,,179,2047,Jorge de la Rosa,Y,SP
+425844,183,204,,224,1943,Zack Greinke,Y,SP
+150404,182,173,,190,833,Ted Lilly,Y,SP
+112020,181,172,,189,1292,Chris Carpenter,Y,SP
+217096,180,167,,184,944,Barry Zito,Y,SP
+475243,181,150,,165,9884,Travis Wood,102.7,SP
+434538,181,184,,202,3201,Francisco Liriano,Y,SP
+456043,180,166,,182,7507,Jonathan Sanchez,Y,SP
+134320,176,161,,177,801,Javier Vazquez,Y,SP
+150414,180,164,,180,412,Jake Westbrook,Y,SP
+453329,182,174,,191,3543,Clay Buchholz,Y,SP
+450306,179,163,,179,8044,Jason Vargas,Y,SP
+460284,183,175,,192,8099,Dallas Braden,Y,SP
+434678,171,167,,175,3642,Kyle Davies,Y,SP
+407296,182,167,,184,305,Carlos Zambrano,Y,SP
+408206,180,171,,188,962,Brett Myers,Y,SP
+434628,175,171,,188,4538,Jason Hammel,Y,SP
+493133,176,162,,178,3283,Hiroki Kuroda,Y,SP
+468504,174,152,,167,2608,Jhoulys Chacin,Y,SP
+430599,180,170,,182,4849,Joe Blanton,Y,SP
+450172,174,137,,150,3990,Edinson Volquez,62.7,SP
+477003,175,169,,186,4424,Jonathon Niese,Y,SP
+461833,178,168,,185,7450,Phil Hughes,Y,SP
+518516,173,163,,179,5524,Madison Bumgarner,Y,SP
+434671,171,166,,182,3284,Anibal Sanchez,Y,SP
+458690,170,158,,174,9901,Chris Volstad,Y,SP
+471911,171,140,,,6632,Carlos Carrasco,44.7,SP
+543339,172,168,,185,7146,Daniel Hudson,Y,SP
+448694,177,177,,195,4535,Randy Wells,Y,SP
+277417,168,172,,189,510,Josh Beckett,Y,SP
+446399,168,170,,187,2660,Brett Cecil,Y,SP
+435044,172,169,,186,6176,Scott Baker,Y,SP
+488846,166,146,,160,4064,Brian Duensing,130.7,SP
+431162,167,45,,,6432,Tim Stauffer,82.7,RP
+456501,161,179,,197,6893,Johnny Cueto,Y,SP
+334492,168,168,,185,1094,Joel Pineiro,Y,SP
+458709,157,160,,176,7080,John Lannan,Y,SP
+450729,169,155,,170,9425,Doug Fister,Y,SP
+346798,169,121,,133,739,Kyle Lohse,Y,SP
+451584,172,168,,185,7441,Wade Davis,Y,SP
+150359,173,165,,181,512,A.J. Burnett,Y,SP
+456701,154,149,,164,8362,Homer Bailey,109,SP
+115817,168,180,,195,1116,Livan Hernandez,Y,SP
+519144,172,169,,186,2717,Rick Porcello,Y,SP
+448147,161,142,,156,4270,Nick Blackburn,Y,SP
+519455,161,141,,155,4505,Jordan Zimmermann,Y,SP
+502009,167,177,,195,3815,Mat Latos,Y,SP
+421685,162,152,,167,1451,Aaron Harang,Y,SP
+456027,162,148,,163,8268,Ross Ohlendorf,108.3,SP
+435298,170,165,,181,8591,Jeff Niemann,Y,SP
+453562,157,140,,,,Jake Arrieta,100.3,SP
+474463,164,158,,174,8223,Brett Anderson,Y,SP
+502032,156,156,,171,9492,Bud Norris,Y,SP
+448802,161,160,,176,8137,Jaime Garcia,Y,SP
+493137,157,141,,155,7775,Daisuke Matsuzaka,Y,SP
+433585,162,136,,149,4684,Jeff Francis,,SP
+457453,158,166,,182,5556,Jair Jurrjens,Y,SP
+150302,152,140,,,105,Jason Marquis,58.7,SP
+453344,156,163,,175,9346,Brandon Morrow,Y,SP
+476451,161,145,,159,4371,Jeremy Hellickson,Y,SP
+434578,155,179,,197,4366,Joe Saunders,Y,SP
+429781,159,157,,172,1767,Kevin Correia,Y,SP
+279782,153,180,,198,232,Jon Garland,Y,SP
+457918,157,152,,167,7410,J.A. Happ,Y,SP
+457428,154,149,,164,5523,James McDonald,71.7,SP
+136600,153,140,,,769,Bruce Chen,,SP
+502706,151,142,,156,4141,Derek Holland,57.3,SP
+452733,149,146,,160,6244,Tom Gorzelanny,Y,SP
+429780,162,143,,157,2141,Chris Narveson,Y,SP
+452676,147,140,,,4961,Mitch Talbot,159.3,SP
+450203,138,,,,,"Morton, Charlie ",T,
+453281,132,147,,161,5221,Wade LeBlanc,Y,SP
+446264,146,140,,,,Barry Enright,99,SP
+457435,138,147,,,5535,Phil Coke,64.7,RP
+476570,146,140,,,5231,Vin Mazzaro,122.3,SP
+475138,141,138,,152,4359,Kyle Drabek,Y,SP
+207267,138,140,,,535,Brad Penny,,SP
+449072,140,45,3,,4845,Kyle McClellan,75.3,RP
+432934,134,92,,101,3196,Chris Young,,SP
+458708,139,140,,,,Josh Tomlin,73,SP
+425626,133,45,,,1701,Chris Capuano,66,RP
+545404,135,,,,,"Beachy, Brandon ",T,
+446209,133,,,,,"Litsch, Jesse ",T,
+501381,136,140,,,,Michael Pineda,,SP
+448269,141,170,,187,8375,Brad Bergesen,Y,SP
+488984,128,147,,162,1157,Tommy Hunter,128,SP
+467100,133,117,,129,1994,Ivan Nova,Y,SP
+407853,128,106,,117,126,Erik Bedard,Y,SP
+435221,125,140,,,4662,Brandon McCarthy,#N/A,SP
+488768,132,45,,,,Andrew Cashner,54.3,RP
+502190,129,138,,152,10130,Mike Leake,Y,SP
+346871,118,144,,158,1571,Aaron Cook,127.7,SP
+469134,115,,,,,"Rogers, Esmil ",T,
+408241,117,126,,139,1051,Jake Peavy,Y,SP
+150153,108,45,,,683,Nelson Figueroa,93,RP
+501957,114,140,,,5279,Chris Tillman,53.7,SP
+150119,101,112,,123,,Freddy Garcia,,SP
+431148,111,133,,146,4897,Scott Kazmir,Y,SP
+458713,108,147,,157,9918,Kevin Slowey,Y,SP
+457448,111,140,,,5551,Matt Harrison,,SP
+408310,107,45,4,,1751,Aaron Heilman,,RP
+502154,96,,,,,"Britton, Zachary ",T,
+457456,93,,,,,"Reyes, Jo-Jo ",T,
+451482,96,147,,161,4222,Armando Galarraga,Y,SP
+501985,93,126,,139,10021,Mike Minor,Y,SP
+435043,93,162,,178,3840,Zach Duke,Y,SP
+444371,85,140,,,5879,Jeff Karstens,122.7,SP
+457711,90,140,,,9137,Sean O'Sullivan,83.7,SP
+150119,101,140,,,1077,Freddy Garcia,,SP
+538227,88,45,4,,,Hisanori Takahashi,122,RP
+448287,69,100,,110,7529,Luke French,87.7,SP
+218894,85,140,,,964,Vicente Padilla,95,SP
+458567,80,45,,,7667,Andy Sonnanstine,81,RP
+446321,83,,,,,"Detwiler, Ross ",T,
+400291,80,140,,,7060,Dustin Moseley,65.3,SP
+458537,81,,,,,"Luebke, Cory ",T,
+452718,71,130,,143,6230,Kyle Kendrick,,SP
+519240,80,123,,135,6612,Marc Rzepczynski,63.7,SP
+491703,80,62,32,87,18,Neftali Feliz,Y,RP
+501955,76,75,2,96,2692,Joba Chamberlain,Y,RP
+454535,77,45,9,,4593,Clay Hensley,75,RP
+445156,80,65,,77,5905,Sean Marshall,74.7,RP
+457425,78,58,12,68,5109,Evan Meek,80,RP
+489265,79,45,,,9817,Sergio Romo,62,RP
+461212,77,,,,,"Palmer, Matt ",T,
+123801,81,106,,116,219,Tim Wakefield,Y,SP
+425630,76,83,,91,1692,Brandon Webb,Y,SP
+458924,78,59,12,69,7175,Jonny Venters,Y,RP
+543634,73,57,,67,8799,Ryan Perry,62.7,RP
+502085,75,56,1,66,8241,David Robertson,Y,RP
+430634,79,45,3,,1886,Sean Burnett,63,RP
+434180,75,45,,,4422,Kameron Loe,58.3,RP
+493247,77,45,,,4891,Peter Moylan,63.7,RP
+430963,78,45,,,4573,Tony Pena,100.7,RP
+460370,76,45,,,4078,Rafael Perez,61,RP
+519242,76,64,7,75,10603,Chris Sale,,RP
+400089,76,56,12,66,1100,Rafael Soriano,Y,RP
+275933,74,45,5,,773,Scott Downs,61.3,RP
+459939,76,45,,,3344,Mitchell Boggs,67.3,RP
+547973,77,75,,95,10233,Aroldis Chapman,13.3,RP
+502381,75,60,2,71,4090,Luke Gregerson,Y,RP
+425492,75,58,8,68,1852,Ryan Madson,53,RP
+465657,75,56,37,66,6941,Joakim Soria,Y,RP
+448165,74,55,8,65,4788,Matt Capps,73,RP
+446099,73,54,28,63,9059,John Axford,Y,RP
+276514,72,53,23,62,1793,Kevin Gregg,59,RP
+518886,75,52,22,61,6655,Craig Kimbrel,Y,RP
+276542,76,52,8,61,1437,Joaquin Benoit,60.3,RP
+458730,75,51,,60,9926,Bobby Parnell,35,RP
+434718,73,47,28,55,8258,Huston Street,47.3,RP
+429783,75,45,2,,177,Rafael Betancourt,62.3,RP
+461325,73,45,,,5640,Tyler Clippard,91,RP
+451585,72,45,,,,Sam Demel,37,RP
+434565,78,45,,,2575,Robinson Tejeda,61,RP
+434665,75,45,,,7267,Nick Masset,76.7,RP
+430606,73,45,,,1937,Mike Adams,66.7,RP
+279571,73,45,,,1837,Matt Belisle,92,RP
+488674,73,45,,,9736,Burke Badenhop,67.7,RP
+468396,77,45,,,,Alexi Ogando,41.7,RP
+434181,75,61,14,72,3731,Brandon League,Y,RP
+407819,74,55,29,65,1918,Matt Thornton,Y,RP
+430884,74,55,,65,4817,Jesse Crain,Y,RP
+211041,74,52,33,61,1076,Ryan Franklin,65,RP
+407908,73,46,16,54,2332,Joel Peralta,Y,RP
+435400,74,45,,,5861,Jason Motte,52.3,RP
+457779,75,,,,,"Kirkman, Michael ",T,
+461791,73,62,33,73,2790,Carlos Marmol,Y,RP
+453268,74,58,2,68,7115,Daniel Bard,Y,RP
+453198,72,55,21,65,5213,Chris Perez,63,RP
+150118,72,48,12,56,429,Brian Fuentes,Y,RP
+150035,73,45,9,53,278,Kyle Farnsworth,,RP
+448159,74,140,,,4279,Manny Parra,122,SP
+235095,71,45,3,,120,Dan Wheeler,48.3,RP
+435045,73,45,,,,Sergio Santos,51.7,RP
+455009,71,58,29,68,4759,Jonathan Broxton,62.3,RP
+430629,72,58,25,68,2186,Joel Hanrahan,69.7,RP
+519322,73,53,28,62,6983,Drew Storen,55.3,RP
+434641,72,45,12,,3265,Juan Gutierrez,56.7,RP
+425747,74,45,2,,1660,Jose Contreras,56.7,RP
+460072,72,45,,,5673,Jason Berken,62.3,RP
+475115,62,,,,,"Ross, Tyson ",T,
+407825,71,60,1,70,2061,Matt Guerrier,Y,RP
+448178,72,45,,,6475,Kevin Jepsen,59,RP
+119984,72,45,,,206,Darren Oliver,61.7,RP
+457707,67,,,,,"Bell, Trevor ",T,
+112526,65,,,,,"Colon, Bartolo ",T,
+502253,61,,,,,"Sanabia, Alex ",T,
+407193,75,57,24,67,1312,Brandon Lyon,Y,RP
+449097,70,55,36,65,5975,Jonathan Papelbon,Y,RP
+434663,69,54,28,64,2886,Leo Nunez,65,RP
+400010,70,54,12,63,1475,John Rauch,Y,RP
+407878,70,51,26,60,1726,Jose Valverde,63,RP
+408061,70,50,30,59,1642,Francisco Rodriguez,Y,RP
+430630,71,45,8,,1906,Jason Frasor,63.7,RP
+467726,69,45,,,4140,Jose Mijares,32.7,RP
+346797,70,45,,,718,Grant Balfour,,RP
+446899,70,45,,,7293,Brad Ziegler,60.7,RP
+451216,73,63,43,74,6485,Brian Wilson,Y,RP
+425514,70,58,45,68,2080,Heath Bell,70,RP
+408057,69,52,9,61,8645,Bobby Jenks,Y,RP
+462382,70,45,6,,3656,Jim Johnson,26.3,RP
+346793,66,45,2,,583,Jeremy Affeldt,50,RP
+430589,60,45,2,,2170,Chad Qualls,,RP
+433586,67,45,,,2873,Santiago Casilla,55.3,RP
+525768,70,45,,,,Tim Collins,,RP
+456696,70,45,,,4259,David Hernandez,79.3,RP
+121250,65,55,31,65,844,Mariano Rivera,Y,RP
+459429,64,54,4,64,7550,Jake McGee,5,RP
+434637,67,45,12,,4604,Matt Lindstrom,53.3,RP
+425861,68,45,2,,1855,Shawn Camp,72.3,RP
+425647,69,45,,,1666,D.J. Carrasco,78.3,RP
+459967,77,,,,,"LeCure, Sam ",T,
+447714,67,45,,,5746,Eric O’Flaherty,44,RP
+239795,65,,,,,"Durbin, Chad ",T,
+491646,60,,,,,"Gomez, Jeanmar ",T,
+493337,66,140,,,,Yuneski Maya,26,SP
+407113,70,140,,,910,Justin Duchscherer,,SP
+448609,66,45,,,8280,Tony Sipp,63,RP
+503285,67,45,,,3321,Darren O'Day,62,RP
+434592,68,45,,,3799,Chris Resop,21,RP
+518961,63,,,,,"Lueke, Josh ",T,
+400067,35,125,,137,973,Carlos Silva,113,SP
+444520,63,45,3,,4363,Craig Breslow,74.7,RP
+477229,65,45,,,,Jordan Walden,15.3,RP
+465629,63,45,,,3970,Ed Mujica,69.7,RP
+519259,61,45,,,8739,Daniel Schlereth,18.7,RP
+407845,64,56,26,66,494,Fernando Rodney,68,RP
+150188,69,55,39,65,1243,Francisco Cordero,72.7,RP
+456102,62,140,,,3625,David Pauley,90.7,SP
+150274,61,52,36,,1122,Joe Nathan,,RP
+446185,66,45,,,,Logan Ondrusek,58.7,RP
+346801,59,45,,,757,Brad Thomas,69.3,RP
+276371,63,129,,135,755,Johan Santana,Y,SP
+445276,64,48,2,56,3096,Kenley Jansen,Y,RP
+283166,63,45,6,,1794,Mike Gonzalez,24.7,RP
+446641,63,45,,,4227,Wilton Lopez,67,RP
+425657,61,45,,,1663,Javier Lopez,57.7,RP
+407297,61,,,,,"Cruz, Juan ",T,
+462956,62,,,,,"Paulino, Felipe ",T,
+450282,58,45,,,8041,Glen Perkins,21.7,RP
+435538,64,45,,,8538,Bill Bray,28.3,RP
+121125,64,45,,,1097,Arthur Rhodes,55,RP
+453307,57,,,,,"Huff, David ",T,
+434884,67,140,,,3245,Ryan Rowland-Smith,109.3,SP
+444836,60,140,,,6248,Aaron Laffey,55.7,SP
+444436,53,45,,,7474,Ryan Webb,59,RP
+445246,55,45,,,3532,Jeff Fulchino,47.3,RP
+518655,60,,,,,"Ely, John ",T,
+407816,60,50,26,59,1795,J.J. Putz,54,RP
+425539,59,48,6,56,7016,Hong-Chih Kuo,60,RP
+134268,62,43,11,50,304,Kerry Wood,46,RP
+518716,60,140,,,,Dillon Gee,33,SP
+493416,63,45,4,,6021,Takashi Saito,54,RP
+110683,58,45,2,,46,Miguel Batista,,RP
+457117,62,45,,,5178,Ernesto Frieri,31.7,RP
+444446,61,45,,,6883,Collin Balester,21,RP
+453184,62,,,,,"Lincoln, Brad ",T,
+430587,60,45,,,2168,Taylor Buchholz,12,RP
+450212,57,45,,,4682,Pat Neshek,9,RP
+457732,56,49,26,58,1368,Andrew Bailey,49,RP
+430900,59,45,5,,1856,Michael Wuertz,39.7,RP
+488722,64,45,,,,Zach Braddock,33.7,RP
+329092,53,45,,,813,Randy Choate,44.7,RP
+458003,58,45,,,8963,Blake Hawksworth,90.3,RP
+444857,63,,,,,"Feldman, Scott ",T,
+435179,61,140,,,4529,Scott Olson,81,SP
+119125,55,45,,,1672,Trever Miller,36,RP
+434298,60,45,,,2467,Todd Coffey,,RP
+445163,58,45,,,7355,Casey Janssen,68.7,RP
+476811,52,,,,,"West, Sean ",T,
+136734,55,45,15,,555,Octavio Dotel,64,RP
+430673,56,45,2,,7986,Ramon S. Ramirez,69.3,RP
+460366,56,45,,,6422,Rich Thompson,19.7,RP
+444427,56,45,,,,Kanekoa Texeira,61.3,RP
+491159,52,45,,,4620,Joe Thatcher,35,RP
+502026,60,45,,,,Jeremy Jeffress,,RP
+450864,52,45,,,,Bobby Cramer,23.7,RP
+543409,56,,,,,"Kohn, Michael ",T,
+430911,54,47,26,,1902,David Aardsma,Y,RP
+493157,56,45,21,,9227,Koji Uehara,44,RP
+349193,53,,,,,"Ohman, Will ",T,
+458950,55,,,,,"Humber, Philip ",T,
+408230,53,43,,51,1601,Pedro Feliciano,62.7,RP
+136263,53,45,,,1995,Tim Byrdak,,RP
+434619,43,45,,,2568,Enrique Gonzalez,26,RP
+502260,50,,,,,"Pestano, Vinnie ",T,
+430083,53,,,,,"Sanches, Brian ",T,
+276530,55,45,,,564,Scott Linebrink,57.3,RP
+460657,54,45,,,3107,Doug Slaten,40.7,RP
+502043,50,,,,,"Gibson, Kyle ",T,
+407911,53,48,21,57,1933,Frank Francisco,52.7,RP
+445197,45,45,,,9948,Mike Dunn,19,RP
+435618,52,45,,,6428,Jeremy Accardo,6.7,RP
+452240,55,45,,,7334,Adam Russell,15.7,RP
+474039,47,,,,,"Beato, Pedro ",T,
+408072,48,,,,,"Bulger, Jason ",T,
+276056,43,45,,,367,Danys Baez,47.7,RP
+455374,46,45,,,8844,Antonio Bastardo,18.7,RP
+462985,48,45,5,,5088,Franklin Morales,28.7,RP
+453646,50,45,2,,4138,Carlos Villanueva,52.7,RP
+519186,49,45,,,,Matt Reynolds,18,RP
+502130,50,45,,,4080,Dan Runzler,32.7,RP
+457429,49,45,,,5525,Boone Logan,40,RP
+469686,44,,,,,"Aceves, Alfredo ",T,
+449079,38,,,,,"Wright, Wesley ",T,
+424805,34,140,,,1574,Mark Hendrickson,,SP
+434442,46,45,8,,8245,J.P. Howell,,RP
+502188,48,45,,,3254,Jeff Samardzija,,RP
+467008,48,,,,,"Strop, Pedro ",T,
+453249,52,,,,,"Manship, Jeff ",T,
+458681,46,,,,,"Lynn, Lance ",T,
+433657,52,,,,,"Bush, Dave ",T,
+346848,50,45,,,1848,John Grabow,25.7,RP
+346847,46,45,,,979,Joe Beimel,,RP
+450852,47,,,,,"Martinez, Cristhian ",T,
+501874,45,,,,,"Mickolio, Kam ",T,
+430941,46,45,,,6291,George Sherrill,36.3,RP
+453515,47,45,,,8360,David Purcey,34,RP
+502168,48,,,,,"Owens, Rudy ",T,
+519105,45,,,,,"Parker, Jarrod ",T,
+459987,43,140,,,3357,Cesar Ramos,8.3,SP
+453343,50,45,,,4264,Mark Melancon,21.3,RP
+124604,48,45,,,715,Jamey Wright,,RP
+497807,41,45,,,,Frank Herrmann,44.7,RP
+476011,57,,,,,"Maloney, Matt ",T,
+425848,46,140,,,1772,Rich Harden,92,SP
+444884,48,45,,,6315,Chris Ray,,RP
+454537,48,45,,,8346,Jared Burton,3.3,RP
+506606,41,45,,,7763,Hideki Okajima,46,RP
+458250,46,45,,,6164,Dusty Hughes,56.3,RP
+477569,42,,,,,"Salas, Fernando ",T,
+543475,47,,,,,"Lyles, Jordan ",T,
+240694,47,45,2,,754,J.C. Romero,36.7,RP
+450275,45,45,,,7416,Mark Lowe,13.3,RP
+115629,37,45,,,729,LaTroy Hawkins,16,RP
+460283,44,45,,,7841,Jerry Blevins,48.7,RP
+489334,48,,,,,"Stammen, Craig ",T,
+435261,35,,,,,"Miner, Zach ",T,
+518495,40,,,,,"Broderick, Brian ",T,
+519110,41,45,,,,Joe Paterson,,RP
+425226,46,45,,,1646,Brian Tallet,77.3,RP
+467094,38,,,,,"Doubront, Felix ",T,
+488787,47,,,,,"Coleman, Casey ",T,
+464244,38,,,,,"Arias, Alberto ",T,
+434638,38,140,,,3425,Brian Burres,79.3,SP
+407842,48,45,,,2063,Jose Veras,,RP
+501925,44,45,,,3281,Joe Smith,40,RP
+502264,42,,,,,"Adcock, Nathan ",T,
+469159,37,140,,,6371,Henry Rodriguez,27.7,SP
