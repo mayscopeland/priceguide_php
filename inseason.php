@@ -1,5 +1,17 @@
 <?php 
 
+// This is a script that builds CSV files for current season-to-date batting and pitching stats.
+// It is meant to run daily (i.e. via cron) during the regular season.
+// 
+// To get current season stats, this script scrapes Yahoo's baseball stats pages using cURL. It 
+// then converts Yahoo's player IDs (from Stats, Inc.) to the player IDs used by the Price Guide,
+// (MLBAM IDs). It saves the batter and pitcher CSVs, overwriting the existing files (typically 
+// the previous day's year-to-date stats).
+//
+// During the course of the year, rookies will invariably show up with IDs from Stats Inc. that 
+// I don't have mapped to an MLBAM ID. This requires periodically checking the output of this
+// script to see which players need their player IDs added to IdConversion.csv.
+
 $year = 2013;
 
 $TR_MATCH = "|<tr height=\"20\" class=\"ysprow.*?>(.*?)</tr>|";
@@ -118,13 +130,13 @@ function cleanupHtml($html)
    $html = str_replace("√Å", "A", $html);
    $html = str_replace("√â", "E", $html);
 /*
-   $html = str_replace("·", "a", $html);
-   $html = str_replace("È", "e", $html);
-   $html = str_replace("Ì", "i", $html);
-   $html = str_replace("Û", "o", $html);
-   $html = str_replace("˙", "u", $html);
-   $html = str_replace("Ò", "n", $html);
-   $html = str_replace("¡", "A", $html);
+   $html = str_replace("ÔøΩ", "a", $html);
+   $html = str_replace("ÔøΩ", "e", $html);
+   $html = str_replace("ÔøΩ", "i", $html);
+   $html = str_replace("ÔøΩ", "o", $html);
+   $html = str_replace("ÔøΩ", "u", $html);
+   $html = str_replace("ÔøΩ", "n", $html);
+   $html = str_replace("ÔøΩ", "A", $html);
 */
    return $html;
 }
