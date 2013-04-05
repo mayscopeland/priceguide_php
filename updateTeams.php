@@ -1,5 +1,19 @@
 <?php 
 
+// This is a script that needs to be manually run as needed. Originally, the Price Guide would dynamically
+// combine each set of projections with separate CSVs that indicated each player's current team and
+// positional eligibility -- everytime values were generated. That process was nice because I only had to 
+// update teams in one place whenever, for example, free agents signed over the winter.
+//
+// However, that process also slowed down the time it took to generate dollar values, and so I moved the
+// code into this script that would combine the CSVs and re-save the team/position data in the CSV for
+// each projection.
+// 
+// So this script needs run anytime a new projection system is added (or updated). I also run it anytime
+// I do an update on players that have switched teams over the offseason. Just set the necessary flags 
+// at the top so that it updates the necessary projections.
+
+
 $doCairoHitters = true;
 $doCairoPitchers = true;
 $doComposite411Hitters = true;
