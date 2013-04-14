@@ -175,14 +175,19 @@ function getLeague($team)
 {
    global $year;
    
-   if ($team == "HOU" && $year < 2013)
+   
+   if ($team == "HOU")
    {
-      return "NL";
+      if ($year < 2013)
+      {
+         return "NL";
+      }
+      else
+      {
+         return "AL";
+      }
    }
-   else
-   {
-      return "AL";
-   }
+
 
    switch ($team)
    {
